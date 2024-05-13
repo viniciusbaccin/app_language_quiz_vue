@@ -1,6 +1,6 @@
 # app_language_quiz_vue
 
-This template should help get you started developing with Vue 3 in Vite.
+App Quiz de tradução com chatGPT e Vue 3 em Vite.
 
 ## Recommended IDE Setup
 
